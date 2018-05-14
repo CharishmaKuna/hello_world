@@ -1,7 +1,5 @@
 # hello_world
 
 Hi internet
-
-CK here to make soe cool shit
+here to make some cool shit
 ok bye
-Basics
