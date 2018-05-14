@@ -1,2 +1,5 @@
 # hello_world
-Basics
+
+Hi internet
+here to make some cool shit
+ok bye
